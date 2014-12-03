@@ -31,7 +31,7 @@ In my sample I've named the panel `#footer-panel` so to toggle it you can use:
 	$("#footer-panel").collapse('show');
 	$("#footer-panel").collapse('hide');
 
-Toggle Default Mode (Open / Closed) va Markup
+Toggle Default Mode (Open / Closed) via Markup
 =============================================
 You can toggle the panel's initial display, using the normal [Bootstrap Collapse api](http://getbootstrap.com/javascript/#collapse).
 
