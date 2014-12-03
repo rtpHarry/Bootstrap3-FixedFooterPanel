@@ -56,6 +56,10 @@ Accessibility Notes
 ===================
 If you make some changes to this then don't forget to be a good web developer and update the `aria` tags to reflect your new names and if you change it to be open set `aria-expanded="true"`.
 
+Improvements
+============
+If you have feedback, please open an issue or initiate a pull request. I'm happy to make improvements where possible.
+
 Website
 =======
 There is a blog post announcing this but all the information you need is in this readme:
