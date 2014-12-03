@@ -66,7 +66,7 @@ Website
 =======
 There is a blog post announcing this but all the information you need is in this readme:
 
-  - TODO: add blog post here
+  - [New GitHub Repository - Bootstrap3-FixedFooterPanel](http://articles.runtings.co.uk/2014/12/new-github-repository-bootstrap3.html)
 
 Release History
 ===============
