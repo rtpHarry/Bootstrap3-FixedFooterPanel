@@ -3,7 +3,7 @@ Bootstrap3-FixedFooterPanel
 
 This is a sample snippet that shows how you can set up a fixed footer notification panel which will contain its content with a scrollbar.
 
-It slides up when activated and slides down when complete.
+It slides up when activated and slides down when closed.
 
 Demo
 ====
@@ -20,6 +20,8 @@ I've tested it in:
 
   - Chrome 39
   - Firefox 33.1, 34.0
+  
+Currently in Internet Explorer 11 it is not showing the inner content scroll bar so depending on your use-case it could still be useful.
 
 Toggle Panel Display via JavaScript
 ===================================
