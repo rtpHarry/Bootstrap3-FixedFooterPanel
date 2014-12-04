@@ -39,6 +39,8 @@
     $('#footer-panel').on('shown.bs.collapse', function () {
       setupPanelHeight();
     });
+	
+	setupPanelHeight(); // setup initial height to fix IE issue
     
     // demo - trigger panel via button
     $("#openErrorList").click(function () {
