@@ -24,7 +24,7 @@
 (function(){
   function getNumberFromPx(cssString) {
     return parseFloat(cssString.replace("px", ""));
-  };  
+  }
     
   function setupPanelHeight() {
     var $footerPanel = $("#footer-panel");
@@ -38,7 +38,7 @@
   $(document).ready(function(){    
     $('#footer-panel').on('shown.bs.collapse', function () {
       setupPanelHeight();
-    })
+    });
     
     // demo - trigger panel via button
     $("#openErrorList").click(function () {
