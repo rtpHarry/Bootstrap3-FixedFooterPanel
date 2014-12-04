@@ -1,5 +1,5 @@
 /*
-    Bootstrap3-FixedFooterPanel v1.0
+    Bootstrap3-FixedFooterPanel v1.1
     Copyright (C) 2014 Matthew Harris aka rtpHarry
 
     This is a sample snippet that shows how you can set up a fixed footer 

@@ -11,8 +11,8 @@ There are three files included in this repository, `index.html`, `bootstrap-foot
 
 Either grab them and put them into your website project or for even easier ease I have also put these up on two popular interactive playgrounds:
 
+  - [Plunker](http://plnkr.co/edit/FKYoBlGJhEukvTEST8be?p=preview)
   - [Bootply](http://www.bootply.com/N88CLXCzjq)
-  - Bootsnipp to be added
 
 Browser Compatibility
 =====================
@@ -20,8 +20,7 @@ I've tested it in:
 
   - Chrome 39
   - Firefox 33.1, 34.0
-  
-Currently in Internet Explorer 11 it is not showing the inner content scroll bar so depending on your use-case it could still be useful.
+  - Internet Explorer 11
 
 Toggle Panel Display via JavaScript
 ===================================
