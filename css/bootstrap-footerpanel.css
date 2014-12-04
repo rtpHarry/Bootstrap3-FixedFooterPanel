@@ -21,6 +21,13 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+
+/* this stops the main document sidebar causing an overlay issue in IE10+ */
+/* http://stackoverflow.com/a/17504537/156388 */
+html {
+   -ms-overflow-style: scrollbar;
+}
+
 #footer-panel {
   position: fixed;
   bottom: 0;
